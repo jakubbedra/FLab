@@ -25,3 +25,31 @@ C:\Users\The Konfyrm\RiderProjects\FLab\FLab\obj\Debug\net6.0\FLab.fsproj.CopyCo
 C:\Users\The Konfyrm\RiderProjects\FLab\FLab\obj\Debug\net6.0\FLab.dll
 C:\Users\The Konfyrm\RiderProjects\FLab\FLab\obj\Debug\net6.0\FLab.pdb
 C:\Users\The Konfyrm\RiderProjects\FLab\FLab\obj\Debug\net6.0\FLab.genruntimeconfig.cache
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\FLab.exe
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\FLab.deps.json
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\FLab.runtimeconfig.json
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\FLab.dll
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\FLab.pdb
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\FSharp.Core.dll
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\obj\Debug\net6.0\FLab.fsproj.AssemblyReference.cache
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\obj\Debug\net6.0\FLab.AssemblyInfoInputs.cache
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\obj\Debug\net6.0\FLab.AssemblyInfo.fs
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\obj\Debug\net6.0\FLab.fsproj.CoreCompileInputs.cache
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\obj\Debug\net6.0\FLab.fsproj.CopyComplete
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\obj\Debug\net6.0\FLab.dll
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\obj\Debug\net6.0\FLab.pdb
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\obj\Debug\net6.0\FLab.genruntimeconfig.cache
+C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\Newtonsoft.Json.dll

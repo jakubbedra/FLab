@@ -13,6 +13,7 @@
     <SourceRoot Include="C:\Users\theKonfyrm\.nuget\packages\" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\theKonfyrm\.nuget\packages\newtonsoft.json\13.0.2-beta2</PkgNewtonsoft_Json>
     <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">C:\Users\theKonfyrm\.nuget\packages\fsharp.core\6.0.6</PkgFSharp_Core>
   </PropertyGroup>
 </Project>
