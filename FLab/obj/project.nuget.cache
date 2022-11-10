@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wgfhi4v6E5k+w4cmBo8hUB42Tj/D/GyfCD+HbUcUHmCTgTc4ERGeFPutdJNkBFAlrEmWA69Bqvre8T18lThR2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\The Konfyrm\\RiderProjects\\FLab\\FLab\\FLab.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The Konfyrm\\.nuget\\packages\\fsharp.core\\6.0.6\\fsharp.core.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
