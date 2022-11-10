@@ -67,7 +67,7 @@
   },
   "libraries": {
     "FSharp.Core/6.0.6": {
-      "sha512": "ZSwKKw+q50wDYHNs12WkKKgZ5vJScN2+cbq6+4jvn8H/D2W8rGMlybGNLHSF96v/Igx680mV7fPTtQe3V/quxg==",
+      "sha512": "oSbTFqPtsp+EGkWAHwYIYYHyXLJRnbzVwcmM06kmXNLdWsp3P6XZViPSJJ2qUQS8feNK+nyPA0qtpNZXANGB7w==",
       "type": "package",
       "path": "fsharp.core/6.0.6",
       "files": [
@@ -117,27 +117,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\The Konfyrm\\.nuget\\packages\\": {}
+    "C:\\Users\\theKonfyrm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\The Konfyrm\\RiderProjects\\FLab\\FLab\\FLab.fsproj",
+      "projectUniqueName": "C:\\Users\\theKonfyrm\\RiderProjects\\FLab\\FLab\\FLab.fsproj",
       "projectName": "FLab",
-      "projectPath": "C:\\Users\\The Konfyrm\\RiderProjects\\FLab\\FLab\\FLab.fsproj",
-      "packagesPath": "C:\\Users\\The Konfyrm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\The Konfyrm\\RiderProjects\\FLab\\FLab\\obj\\",
+      "projectPath": "C:\\Users\\theKonfyrm\\RiderProjects\\FLab\\FLab\\FLab.fsproj",
+      "packagesPath": "C:\\Users\\theKonfyrm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\theKonfyrm\\RiderProjects\\FLab\\FLab\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\The Konfyrm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\theKonfyrm\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\6.0.402\\FSharp\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\6.0.401\\FSharp\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -174,7 +172,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
