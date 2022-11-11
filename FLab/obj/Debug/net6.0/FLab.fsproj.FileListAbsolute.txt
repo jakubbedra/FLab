@@ -53,3 +53,4 @@ C:\Users\theKonfyrm\RiderProjects\FLab\FLab\obj\Debug\net6.0\FLab.dll
 C:\Users\theKonfyrm\RiderProjects\FLab\FLab\obj\Debug\net6.0\FLab.pdb
 C:\Users\theKonfyrm\RiderProjects\FLab\FLab\obj\Debug\net6.0\FLab.genruntimeconfig.cache
 C:\Users\theKonfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\The Konfyrm\RiderProjects\FLab\FLab\bin\Debug\net6.0\Newtonsoft.Json.dll
